@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "TANG Rugang"
 title_separator          : "-"
 name                     : &name "TANG Rugang (汤汝刚)"
-description              : &description "Personal website of TANG Rugang (汤汝刚), a dual PhD student of The Hong Hong Polytechnic University & Northwestern  Polytechnical University."
-url                      : https://Leslie-Tang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Leslie-Tang/Leslie-Tang.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,10 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "TANG Rugang (汤汝刚)"
   pronouns         : # example: "she/her"  
-  bio              : #"Dual PhD student of The Hong Hong Polytechnic University & Northwestern  Polytechnical University."
+  bio              : "Dual PhD student of The Hong Hong Polytechnic University & Northwestern  Polytechnical University."
   location         : "Hong Kong"
   employer         : "HK PolyU & NWPU"
-  position         : "PhD Student"
   uri              : # URL
   email            : "rg-polyu.tang@connect.polyu.hk" 
 
@@ -38,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1572-1794"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -51,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -230,6 +229,17 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -237,19 +247,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
+  # _teaching
   - scope:
       path: ""
-      type: publications
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _blogPosts
+  # _publications
   - scope:
       path: ""
-      type: blogPosts
+      type: publications
     values:
       layout: single
       author_profile: true
