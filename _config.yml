@@ -13,7 +13,7 @@ title                    : "TANG Rugang"
 title_separator          : "-"
 name                     : &name "TANG Rugang (汤汝刚)"
 description              : &description "personal description"
-url                      : https://Leslie-Tang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://Leslie-Tang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Leslie-Tang/Leslie-Tang.github.io"
 
