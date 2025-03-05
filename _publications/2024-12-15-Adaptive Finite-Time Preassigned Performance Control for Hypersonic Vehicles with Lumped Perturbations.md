@@ -3,7 +3,7 @@ title: "Adaptive Finite-Time Preassigned Performance Control for Hypersonic Vehi
 collection: publications
 category: conferences
 permalink: /publication/2024-12-15-Adaptive Finite-Time Preassigned Performance Control for Hypersonic Vehicles with Lumped Perturbations
-excerpt: 'This is a work mainly done by Chengfeng Luo'
+excerpt: 'This is a work mainly done by Chengfeng Luo.'
 date: 2024-12-15
 venue: '18th International Conference on Control, Automation, Robotics and Vision (ICARCV), 2024'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
