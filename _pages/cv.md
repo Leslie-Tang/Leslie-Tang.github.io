@@ -31,7 +31,8 @@ redirect_from:
 * approximate dynamic programming (ADP)
 * dynamic scheduling
 
-# Awards
+# Funding and Awards
+* The Doctor Dissertation of Northwestern Polytechnical University (CX2023037), 2023-2025.
 * Best paper award, International Conference on Autonomous Unmanned Systems, 2021.
 
 # Publications

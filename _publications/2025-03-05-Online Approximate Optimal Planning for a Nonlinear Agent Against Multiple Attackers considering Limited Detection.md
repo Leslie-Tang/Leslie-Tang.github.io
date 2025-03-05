@@ -11,7 +11,7 @@ venue: 'to be submitted'
 # citation: 'Zhang J, Ning X, Ma S, et al. Research on global trajectory planning for UAV based on the information interaction and aging mechanism Wolfpack algorithm[J]. Expert Systems with Applications, 2025: 126867.'
 ---
 
-# Simulation Demo
+# Experiments
 <video width="640" height="480" controls loop="" muted="" aotoplay="">
     <source src="https://github.com/Leslie-Tang/Leslie-Tang.github.io/raw/refs/heads/master/files/videos/Online%20Approximate%20Optimal%20Planning%20for%20a%20Nonlinear%20Agent%20Against%20Multiple%20Attackers%20considering%20Limited%20Detection/experiments.mp4">
 </video>
