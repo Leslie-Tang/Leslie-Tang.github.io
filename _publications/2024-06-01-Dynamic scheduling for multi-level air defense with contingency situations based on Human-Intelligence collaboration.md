@@ -3,7 +3,7 @@ title: "Dynamic scheduling for multi-level air defense with contingency situatio
 collection: publications
 category: journals
 permalink: /publication/2024-06-01-Dynamic scheduling for multi-level air defense with contingency situations based on Human-Intelligence collaboration
-excerpt: 'This is a work supported by the Doctor Dissertation of Northwestern Polytechnical University'
+excerpt: 'This is a work supported by the Doctor Dissertation of Northwestern Polytechnical University.'
 date: 2024-06-01
 venue: 'Engineering Applications of Artificial Intelligence'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
