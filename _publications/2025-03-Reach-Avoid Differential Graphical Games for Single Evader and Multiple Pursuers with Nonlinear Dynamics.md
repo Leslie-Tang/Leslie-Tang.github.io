@@ -14,3 +14,6 @@ date: 2025-03
 # Simulation Demo
 <video src="http://leslie-tang.github.io/files/videos/Reach-Avoid Differential Graphical Games for Single Evader and Multiple Pursuers with Nonlinear Dynamics/trajectory1.9dt=0.05.mp4"></video>
 
+<video src="http://leslie-tang.github.io/files/videos/Reach-Avoid Differential Graphical Games for Single Evader and Multiple Pursuers with Nonlinear Dynamics/trajectory2.5dt=0.01.mp4"></video>
+
+<video src="http://leslie-tang.github.io/files/videos/Reach-Avoid Differential Graphical Games for Single Evader and Multiple Pursuers with Nonlinear Dynamics/trajectoryLinedt=0.01.mp4"></video>
