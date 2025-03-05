@@ -1,0 +1,14 @@
+---
+title: "Dynamic scheduling for multi-level air defense with contingency situations based on Human-Intelligence collaboration"
+collection: publications
+category: journals
+permalink: /publication/2024-06-01-Dynamic scheduling for multi-level air defense with contingency situations based on Human-Intelligence collaboration
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2024-06-01
+venue: 'Engineering Applications of Artificial Intelligence'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/papers/Dynamic scheduling for multi-level air defense with contingency situations based on Human-Intelligence collaboration.pdf'
+citation: 'R. Tang, X. Ning, Z. Wang, J. Fan, and S. Ma, “Dynamic scheduling for multi-level air defense with contingency situations based on human-intelligence collaboration,” Engineering Applications of Artificial Intelligence, vol. 132, p. 107893, 2024. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0952197624000514'
+---
+
+Resource scheduling is an important part of military operation, especially in key-point air defense under saturation attack. Many achievements have been made in the field of radar resource scheduling and multi-aircraft scheduling. However, there is little research on the integrated scheduling of detection, tracking and attack, which will greatly increase the resource utilization to deal with the resource shortage problem caused by saturation attacks on key places. In this paper, we propose to autonomously accomplish real-time resource dispatching through end-to-end deep reinforcement learning (DRL), while allowing the commander's intervention to accomplish a variety of complex tactics. First, an integrated scheduling model of detection, tracking and interception is proposed and transformed into a sequential decision problem by introducing a disjunctive graph and a graph neural network (GNN) to extract node features. Subsequently, the Proximal Policy Optimization (PPO) algorithm is applied to learn the air defense environment (ADE), which is modeled as an Markov decision process (MDP). Benefitting from the powerful generalization capability of the policy network, our algorithm can adapt to scheduling missions of different sizes. Moreover, we propose a novel Human-Intelligence collaborative dynamic scheduling framework for emergency response. Simulation results indicate that our algorithm generates high-quality scheduling policies for defense resources, exhibiting superior performance than existing methods. In addition, the dynamic scheduling performance of the human and intelligence collaboration approach in response to multiple contingencies is proven.

@@ -1,0 +1,14 @@
+---
+title: "TCLF-Based Obstacle Avoidance Path Planning for HSV Using Pigeon-Inspired Optimization"
+collection: publications
+category: conferences
+permalink: /publication/2021-09-24-TCLF-Based Obstacle Avoidance Path Planning for HSV Using Pigeon-Inspired Optimization
+excerpt: 'Best paper award'
+date: 2021-09-24
+venue: 'International Conference on Autonomous Unmanned Systems, 2021'
+slidesurl: 'http://leslie-tang.github.io/files/TCLF-based Obstacle avoidance path planning for HSV using Pigeon-inspired Optimization.pdf'
+paperurl: 'http://leslie-tang.github.io/files/papers/TCLF-based Obstacle avoidance path planning for HSV using Pigeon-inspired Optimization.pdf'
+citation: 'Tang, R., Ning, X. (2022). TCLF-Based Obstacle Avoidance Path Planning for HSV Using Pigeon-Inspired Optimization. In: Wu, M., Niu, Y., Gu, M., Cheng, J. (eds) Proceedings of 2021 International Conference on Autonomous Unmanned Systems (ICAUS 2021). ICAUS 2021. Lecture Notes in Electrical Engineering, vol 861. Springer, Singapore. https://doi.org/10.1007/978-981-16-9492-9_47'
+---
+
+This paper proposes an obstacle avoidance planning method based on the penalty function of the truncated Coulomb-like force (TCLF) for Hypersonic vehicle (HSV) in multiple threat zones. The main point of the proposed method is to to put forward a TCLF so that an flight-fit trajectory is obtained which can avoid obstacles autonomously while ensuring landing accuracy. Analogous to the Coulomb force, this paper proposes a TCLF penalty function to characterize the impact of the threat zone on ballistic planning. The pigeon swarm algorithm is used to solve the ballistic impact point optimization problem with penalty function. The simulation results show that the method can automatically generate the bank angle sequence and the angle of attack sequence to form a trajectory, effectively solving the problem of obstacle avoidance for HSV.
