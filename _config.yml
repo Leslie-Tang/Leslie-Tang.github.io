@@ -77,9 +77,11 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  manuscripts:
+    title: 'Papers on the way'
   books:
     title: 'Books'
-  manuscripts:
+  journals:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
