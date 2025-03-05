@@ -24,12 +24,15 @@ redirect_from:
   * Northwestern Polytechnical University
   * Research Topic: 要地对空防御系统智能协同决策技术研究
   * Supervisor: [Prof. Xin Ning](https://teacher.nwpu.edu.cn/ningxin.html)
-  
+
 # Research interests
 * multi-agent systems (MAS), 
 * reach-avoid differencial graphical (RADG) games
 * approximate dynamic programming (ADP)
 * dynamic scheduling
+
+# Awards
+* Best paper award, International Conference on Autonomous Unmanned Systems, 2021.
 
 # Publications
   <ul>{% for post in site.publications reversed %}
