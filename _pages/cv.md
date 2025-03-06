@@ -26,7 +26,7 @@ redirect_from:
   * Supervisor: [Prof. Xin Ning](https://teacher.nwpu.edu.cn/ningxin.html)
 
 # Research Interests
-* multi-agent systems (MAS), 
+* multi-agent systems (MAS) 
 * reach-avoid differencial graphical (RADG) games
 * approximate dynamic programming (ADP)
 * dynamic scheduling
