@@ -25,7 +25,7 @@ redirect_from:
   * Research Topic: 要地对空防御系统智能协同决策技术研究
   * Supervisor: [Prof. Xin Ning](https://teacher.nwpu.edu.cn/ningxin.html)
 
-# Research interests
+# Research Interests
 * multi-agent systems (MAS), 
 * reach-avoid differencial graphical (RADG) games
 * approximate dynamic programming (ADP)
