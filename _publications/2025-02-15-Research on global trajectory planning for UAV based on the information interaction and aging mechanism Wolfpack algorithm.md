@@ -3,7 +3,7 @@ title: "Research on global trajectory planning for UAV based on the information 
 collection: publications
 category: journals
 permalink: /publication/2025-02-15-Research on global trajectory planning for UAV based on the information interaction and aging mechanism Wolfpack algorithm
-excerpt: 'This is a work mainly done by Jinyu Zhang.'
+excerpt: 'Corresponding author: S. Ma. This is a work mainly done by Jinyu Zhang.'
 date: 2025-02-15
 venue: 'Expert Systems with Applications'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'

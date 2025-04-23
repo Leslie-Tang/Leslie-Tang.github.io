@@ -3,7 +3,7 @@ title: "TCLF-Based Obstacle Avoidance Path Planning for HSV Using Pigeon-Inspire
 collection: publications
 category: conferences
 permalink: /publication/2021-09-24-TCLF-Based Obstacle Avoidance Path Planning for HSV Using Pigeon-Inspired Optimization
-excerpt: 'Best paper award.'
+excerpt: 'Corresponding author: X. Ning. Best paper award'
 date: 2021-09-24
 venue: 'International Conference on Autonomous Unmanned Systems, 2021'
 slidesurl: 'http://leslie-tang.github.io/files/slides/TCLF-based Obstacle avoidance path planning for HSV using Pigeon-inspired Optimization.pdf'

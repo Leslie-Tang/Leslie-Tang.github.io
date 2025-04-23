@@ -3,7 +3,7 @@ title: "Online Optimal Attitude Stabilization via Reinforcement Learning for Rig
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-05-Online Optimal Attitude Stabilization via Reinforcement Learning for Rigid Spacecraft with Dynamic Uncertainty
-excerpt: 'Accepted, will be online soon. This is a work mainly done by Chengfeng Luo.'
+excerpt: 'Corresponding author: R. Tang. Accepted, will be online soon. This is a work mainly done by Chengfeng Luo.'
 date: 2025-03-05
 venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'

@@ -3,7 +3,7 @@ title: "Online Approximate Optimal Planning for a Nonlinear Agent Against Multip
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-05-Online Approximate Optimal Planning for a Nonlinear Agent Against Multiple Attackers considering Limited Detection
-excerpt: ''
+excerpt: 'This is a '
 date: 2025-03-05
 venue: 'to be submitted'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
