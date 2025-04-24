@@ -7,7 +7,7 @@ excerpt: 'Corresponding author: S. Ma. This is a work mainly done by Jinyu Zhang
 date: 2025-02-15
 venue: 'Expert Systems with Applications'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://leslie-tang.github.io/files/papers/Research on global trajectory planning for UAV based on the information interaction and aging mechanism Wolfpack algorithm.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0957417425004890'
 citation: 'J. Zhang, X. Ning, S. Ma, and R. Tang, “Research on global trajectory planning for uav based on the information interaction and aging mechanism wolfpack algorithm,” Expert Systems with Applications, p. 126867, 2025.'
 ---
 

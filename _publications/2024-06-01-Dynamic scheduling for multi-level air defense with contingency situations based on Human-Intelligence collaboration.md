@@ -7,7 +7,7 @@ excerpt: 'Corresponding author: X. Ning. This is a work supported by the Doctor 
 date: 2024-06-01
 venue: 'Engineering Applications of Artificial Intelligence'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://leslie-tang.github.io/files/papers/Dynamic scheduling for multi-level air defense with contingency situations based on Human-Intelligence collaboration.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0952197624000514'
 citation: 'R. Tang, X. Ning, Z. Wang, J. Fan, and S. Ma, “Dynamic scheduling for multi-level air defense with contingency situations based on human-intelligence collaboration,” Engineering Applications of Artificial Intelligence, vol. 132, p. 107893, 2024. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0952197624000514'
 ---
 
