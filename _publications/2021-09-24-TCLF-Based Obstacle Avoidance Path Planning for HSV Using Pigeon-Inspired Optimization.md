@@ -7,7 +7,7 @@ excerpt: 'Corresponding author: X. Ning. Best paper award'
 date: 2021-09-24
 venue: 'International Conference on Autonomous Unmanned Systems, 2021'
 slidesurl: 'http://leslie-tang.github.io/files/slides/TCLF-based Obstacle avoidance path planning for HSV using Pigeon-inspired Optimization.pdf'
-paperurl: 'http://leslie-tang.github.io/files/papers/TCLF-based Obstacle avoidance path planning for HSV using Pigeon-inspired Optimization.pdf'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-16-9492-9_47'
 citation: 'R. Tang and X. Ning, “Tclf-based obstacle avoidance path planning for hsv using pigeon-inspired optimization,” in International Conference on Autonomous Unmanned Systems. Springer, 2021, pp. 467–476.'
 ---
 
