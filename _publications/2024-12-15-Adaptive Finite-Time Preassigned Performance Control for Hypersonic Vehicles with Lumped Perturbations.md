@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-12-15-Adaptive Finite-Time Preassigned Performance Control for Hypersonic Vehicles with Lumped Perturbations
 excerpt: 'Corresponding author: X. Ning. This is a work mainly done by Chengfeng Luo.'
 date: 2024-12-15
-venue: '18th International Conference on Control, Automation, Robotics and Vision (ICARCV), 2024'
+venue: '18th International Conference on Control, Automation, Robotics and Vision (ICARCV)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10821624'
 citation: 'C. Luo, R. Tang, X. Ning, and Z. Wang, “Adaptive finite-time preassigned performance control for hypersonic vehicles with lumped perturbations,” in 2024 18th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2024, pp. 31–36.'
