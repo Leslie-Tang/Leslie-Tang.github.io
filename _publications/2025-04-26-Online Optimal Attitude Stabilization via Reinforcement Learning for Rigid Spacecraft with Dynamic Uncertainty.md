@@ -3,12 +3,12 @@ title: "Online Optimal Attitude Stabilization via Reinforcement Learning for Rig
 collection: publications
 category: journals
 permalink: /publication/2025-04-26-Online Optimal Attitude Stabilization via Reinforcement Learning for Rigid Spacecraft with Dynamic Uncertainty
-excerpt: 'Corresponding author: R. Tang. Accepted, will be online soon. This is a work mainly done by Chengfeng Luo.'
+excerpt: 'Corresponding author: R. Tang. This is a worksupported by the Doctor Dissertation of Northwestern Polytechnical University and mainly done by Chengfeng Luo.'
 date: 2025-04-26
 venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-# paperurl: 'http://leslie-tang.github.io/files/papers/Research on global trajectory planning for UAV based on the information interaction and aging mechanism Wolfpack algorithm.pdf'
-# citation: 'Zhang J, Ning X, Ma S, et al. Research on global trajectory planning for UAV based on the information interaction and aging mechanism Wolfpack algorithm[J]. Expert Systems with Applications, 2025: 126867.'
+paperurl: 'https://ieeexplore.ieee.org/document/10977771/authors#authors'
+citation: 'C. Luo, X. Ning and R. Tang, "Online Optimal Attitude Stabilization Via Reinforcement Learning for Rigid Spacecraft With Dynamic Uncertainty," in IEEE Transactions on Aerospace and Electronic Systems, doi: 10.1109/TAES.2025.3564579.'
 ---
 
 
