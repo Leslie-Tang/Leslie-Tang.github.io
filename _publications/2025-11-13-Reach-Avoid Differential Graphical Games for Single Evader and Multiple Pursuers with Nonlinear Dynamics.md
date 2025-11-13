@@ -1,14 +1,14 @@
 ---
 title: "Reach-Avoid Differential Graphical Games for Single Evader and Multiple Pursuers with Nonlinear Dynamics"
 collection: publications
-category: manuscripts
-permalink: /publication/2025-09-30-Reach-Avoid Differential Graphical Games for Single Evader and Multiple Pursuers with Nonlinear Dynamics
-excerpt: ''
-date: 2025-09-30
-venue: 'under review'
+category: journals
+permalink: /publication/2025-11-13-Reach-Avoid Differential Graphical Games for Single Evader and Multiple Pursuers with Nonlinear Dynamics
+excerpt: 'Corresponding author: T. Wang'
+date: 2025-11-13
+venue: 'IEEE Transactions on Automation Science and Engineering'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-# paperurl: 'http://leslie-tang.github.io/files/papers/Research on global trajectory planning for UAV based on the information interaction and aging mechanism Wolfpack algorithm.pdf'
-# citation: 'Zhang J, Ning X, Ma S, et al. Research on global trajectory planning for UAV based on the information interaction and aging mechanism Wolfpack algorithm[J]. Expert Systems with Applications, 2025: 126867.'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S3050814225000251'
+citation: 'R. Tang, C. Luo, T. Wang, X. Ning, and Chih-Yung Wen, “Reach-Avoid Differential Graphical Games for Single Evader and Multiple Pursuers with Nonlinear Dynamics,” IEEE Transactions on Automation Science and Engineering, 2025'
 ---
 
 # Simulation Demo
